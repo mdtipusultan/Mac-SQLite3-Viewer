@@ -48,7 +48,7 @@ struct HomeView: View {
                             }
                             .padding()
                         }
-                        .frame(height: 60) // Adjust the height as needed
+                        .frame(height: 30) // Adjust the height as needed
                     }
                 }
                 .padding()
